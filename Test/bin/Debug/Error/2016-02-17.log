@@ -1,0 +1,248 @@
+[2016-02-17 14:34:55] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:34:59] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:02] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:03] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:51] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:52] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:53] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:54] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:55] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:56] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:56] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:57] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:57] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:58] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:35:59] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:00] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:01] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:02] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:03] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:04] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:05] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:06] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:07] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:08] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:36:09] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:16] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:17] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:18] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:19] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:20] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+
+[2016-02-17 14:37:21] Send
+发送数据出错，请检查单片机线路和电源。
+System.IO.IOException: 端口“COM4”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 KellSCM.Controller.Send(Int32 channel, Boolean set, Boolean read) 位置 F:\2015\KellSCM\KellSCM\Controller.cs:行号 343
+

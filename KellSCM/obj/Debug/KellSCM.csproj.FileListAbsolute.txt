@@ -1,0 +1,5 @@
+F:\2015\KellSCM\KellSCM\bin\Debug\KellSCM.dll
+F:\2015\KellSCM\KellSCM\bin\Debug\KellSCM.pdb
+F:\2015\KellSCM\KellSCM\obj\Debug\KellSCM.dll
+F:\2015\KellSCM\KellSCM\obj\Debug\KellSCM.pdb
+F:\2015\KellSCM\KellSCM\bin\Debug\KellSCM.XML

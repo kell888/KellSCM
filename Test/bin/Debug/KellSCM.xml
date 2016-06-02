@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KellSCM</name>
+    </assembly>
+    <members>
+        <member name="T:KellSCM.ComUtility">
+            <summary>
+            串口帮助静态类
+            </summary>
+        </member>
+        <member name="M:KellSCM.ComUtility.GetHex(System.Byte,System.Boolean)">
+            <summary>
+            获取十六进制的字符串
+            </summary>
+            <param name="data"></param>
+            <param name="format"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.Format(System.String,System.Boolean)">
+            <summary>
+            将十六进制的字符串格式化为标准形式
+            </summary>
+            <param name="hex"></param>
+            <param name="format"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.GetHex(System.Byte[],System.Boolean)">
+            <summary>
+            获取十六进制的字符串
+            </summary>
+            <param name="data"></param>
+            <param name="format"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.StrHexToBin(System.String)">
+            <summary>
+            十六进制转换为字节数组
+            </summary>
+            <param name="StrHex"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.GetDefaultIndexs(System.Int32)">
+            <summary>
+            获取默认的正规索引数组
+            </summary>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.MergeData(System.Byte[],System.Byte[])">
+            <summary>
+            合并两个字节数组为一个大数组
+            </summary>
+            <param name="data1"></param>
+            <param name="data2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.Convert(System.Byte[])">
+            <summary>
+            字节数组转换为对象数组
+            </summary>
+            <param name="data"></param>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.ComUtility.GetBytes(System.UInt16,System.Byte@,System.Byte@)">
+            <summary>
+            获取UInt16数字的高低字节的值
+            </summary>
+            <param name="pari"></param>
+            <param name="pari1"></param>
+            <param name="pari2"></param>
+        </member>
+        <member name="T:KellSCM.Const">
+            <summary>
+            配置项静态类
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.ReadStatusTimeout">
+            <summary>
+            读取单片机的超时时间（默认为1000毫秒）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.ChannelCount">
+            <summary>
+            通道数（默认为4）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.sHead">
+            <summary>
+            单片机的写命令头
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.rHead">
+            <summary>
+            单片机的读命令头
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.tail">
+            <summary>
+            单片机的命令尾
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.sCmd">
+            <summary>
+            单片机的控制命令
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.gCmd">
+            <summary>
+            单片机的获取状态命令
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK1">
+            <summary>
+            闭合第1通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK2">
+            <summary>
+            闭合第2通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK3">
+            <summary>
+            闭合第3通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK4">
+            <summary>
+            闭合第4通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK5">
+            <summary>
+            闭合第5通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK6">
+            <summary>
+            闭合第6通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK7">
+            <summary>
+            闭合第7通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setK8">
+            <summary>
+            闭合第8通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.setAll">
+            <summary>
+            闭合所有通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK1">
+            <summary>
+            断开第1通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK2">
+            <summary>
+            断开第2通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK3">
+            <summary>
+            断开第3通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK4">
+            <summary>
+            断开第4通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK5">
+            <summary>
+            断开第5通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK6">
+            <summary>
+            断开第6通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK7">
+            <summary>
+            断开第7通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetK8">
+            <summary>
+            断开第8通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.resetAll">
+            <summary>
+            断开所有通道
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK1">
+            <summary>
+            获取第1通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK2">
+            <summary>
+            获取第2通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK3">
+            <summary>
+            获取第3通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK4">
+            <summary>
+            获取第4通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK5">
+            <summary>
+            获取第5通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK6">
+            <summary>
+            获取第6通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK7">
+            <summary>
+            获取第7通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getK8">
+            <summary>
+            获取第8通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.getAll">
+            <summary>
+            获取所有通道的状态
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.ComNum">
+            <summary>
+            串口号（默认为1，注意：为数字，不带COM这三个字符）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.BaudRate">
+            <summary>
+            波特率（默认为9600）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.DataBits">
+            <summary>
+            数据位（默认为8）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.StopBits">
+            <summary>
+            停止位（默认为One）
+            </summary>
+        </member>
+        <member name="P:KellSCM.Const.Parity">
+            <summary>
+            校验方式（默认为None）
+            </summary>
+        </member>
+        <member name="T:KellSCM.ReadDataArgs">
+            <summary>
+            串口读到数据的事件参数类
+            </summary>
+        </member>
+        <member name="P:KellSCM.ReadDataArgs.ComName">
+            <summary>
+            串口号
+            </summary>
+        </member>
+        <member name="P:KellSCM.ReadDataArgs.Data">
+            <summary>
+            读到的实际数据
+            </summary>
+        </member>
+        <member name="P:KellSCM.ReadDataArgs.SwicthStatus">
+            <summary>
+            读到的开关状态（当通道号为0时，数组内所有的元素都有效，否则只有第一个元素有效）
+            </summary>
+        </member>
+        <member name="P:KellSCM.ReadDataArgs.ChannelNum">
+            <summary>
+            通道号（大于0时表示某一个通道，为0时表示全部通道）
+            </summary>
+        </member>
+        <member name="M:KellSCM.ReadDataArgs.#ctor(System.String,System.Byte[],System.Boolean[],System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="comName"></param>
+            <param name="data"></param>
+            <param name="switchStatus"></param>
+            <param name="channelNum"></param>
+        </member>
+        <member name="M:KellSCM.ReadDataArgs.ToString">
+            <summary>
+            预览信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:KellSCM.ReadedHandler">
+            <summary>
+            串口读到数据的委托
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:KellSCM.Controller">
+            <summary>
+            单片机控制器类（支持4通道和8通道两种单片机）
+            </summary>
+        </member>
+        <member name="M:KellSCM.Controller.GetChannelStatus(System.Int32)">
+            <summary>
+            获取指定通道的状态（-1为未知，0为断开，1为闭合）
+            </summary>
+            <param name="channel">指定通道（取值范围：1-8）</param>
+            <returns></returns>
+        </member>
+        <member name="E:KellSCM.Controller.Readed">
+            <summary>
+            串口读到有效数据的事件
+            </summary>
+        </member>
+        <member name="M:KellSCM.Controller.#ctor">
+            <summary>
+            控制器构造函数
+            </summary>
+        </member>
+        <member name="M:KellSCM.Controller.TestConnect">
+            <summary>
+            检查串口能否连接
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:KellSCM.Controller.Send(System.Int32,System.Boolean,System.Boolean)">
+            <summary>
+            往串口发送命令数据
+            </summary>
+            <param name="channel">单片机的通道（0为全部通道，单个通道从1开始下去...）</param>
+            <param name="set">true为开，false为关</param>
+            <param name="read">是否为读命令（默认为false写）</param>
+            <returns></returns>
+        </member>
+        <member name="T:KellSCM.Log">
+            <summary>
+            日志静态类
+            </summary>
+        </member>
+        <member name="T:KellSCM.Log.Level">
+            <summary>
+            日志级别
+            </summary>
+        </member>
+        <member name="F:KellSCM.Log.Level.Info">
+            <summary>
+            正常信息
+            </summary>
+        </member>
+        <member name="F:KellSCM.Log.Level.Trace">
+            <summary>
+            调试跟踪
+            </summary>
+        </member>
+        <member name="F:KellSCM.Log.Level.Error">
+            <summary>
+            程序及业务错误
+            </summary>
+        </member>
+        <member name="M:KellSCM.Log.WriteLog(System.String,System.String,KellSCM.Log.Level)">
+            <summary>
+            记录日志
+            </summary>
+            <param name="module">来源</param>
+            <param name="msg">日志内容</param>
+            <param name="level">日志级别</param>
+        </member>
+    </members>
+</doc>
